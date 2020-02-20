@@ -1,0 +1,7 @@
+﻿  main.cpp
+  sort.cpp
+c:\users\bel\source\repos\bel_sorting\bel_sorting\sort.cpp(7): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 98 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  bel_Sorting.vcxproj -> C:\Users\Bel\source\repos\bel_Sorting\x64\Release\bel_Sorting.exe

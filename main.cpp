@@ -10,7 +10,7 @@ int main()
 		std::cin >> input;
 		arr[a] = input;
 	}
-	std::cout << "The list will now be sorted.";
+	std::cout << "The list will now be sorted." << std::endl;
 	std::cin.ignore();
 	arr = bubbleSort(arr);
 	for (int a = 0; a < 10; a++)
